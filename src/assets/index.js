@@ -19,16 +19,17 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
+import vue from "./tech/vue.png";
+import uiux from "./tech/uiux.png";
 import threejs from "./tech/threejs.svg";
-
-import meta from "./company/meta.png";
+import meta from "./company/opensource.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
+import secureblink from "./company/secureblink.png";
 import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import ecommerce from "./ecommerce.jpeg";
+import chat from "./chat.png";
+import textformat from "./textformat.png";
 
 export {
   logo,
@@ -52,11 +53,13 @@ export {
   tailwind,
   typescript,
   threejs,
+  uiux,
+  vue,
   meta,
   shopify,
-  starbucks,
+  secureblink,
   tesla,
-  carrent,
-  jobit,
-  tripguide,
+  ecommerce,
+  chat,
+  textformat,
 };
