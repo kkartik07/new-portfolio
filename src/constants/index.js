@@ -63,10 +63,6 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
-  },
-  {
     name: "CSS 3",
     icon: css,
   },
@@ -130,7 +126,7 @@ const experiences = [
     company_name: "Secure Blink",
     icon: secureblink,
     iconBg: "#383E56",
-    date: "Dec 2022 - March 2023",
+    date: "May 2023 - July 2023",
     points: [
       "Developing and maintaining web applications using Vue.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -182,9 +178,9 @@ const projects = [
     source_code_link: "https://github.com/kkartik07/SnapKart-new",
   },
   {
-    name: "Chatspace",
+    name: "Web3 Crowdfunding",
     description:
-      "A chat application that makes it easy to communicate with people anywhere in the world by sending and receiving messages in real time. ",
+      "Creating a versatile Web3 crowdfunding platform with decentralized features and innovative tokenized incentives for diverse project fundraising.",
     tags: [
       {
         name: "react",
@@ -195,12 +191,37 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "socket.io",
+        name: "blockchain",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "ethereum",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: chat,
+    source_code_link: "https://github.com/kkartik07/project_crowdfunding-master",
+  },
+  {
+    name: "ScoreKeeper",
+    description:
+      "Website to account the score of you and your opponent. ",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "",
         color: "pink-text-gradient",
       },
     ],
     image: chat,
-    source_code_link: "https://github.com/kkartik07/Chat--Space2",
+    source_code_link: "https://github.com/kkartik07/ScoreKeeper",
   },
   {
     name: "Text Formatter",
