@@ -23,6 +23,8 @@ import {
   shopify,
   ecommerce,
   chat,
+  web3,
+  score,
   textformat,
   threejs,
 } from "../assets";
@@ -199,7 +201,7 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: chat,
+    image: web3,
     source_code_link: "https://github.com/kkartik07/project_crowdfunding-master",
   },
   {
@@ -220,7 +222,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: chat,
+    image: score,
     source_code_link: "https://github.com/kkartik07/ScoreKeeper",
   },
   {

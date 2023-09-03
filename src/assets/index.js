@@ -29,6 +29,8 @@ import tesla from "./company/tesla.png";
 
 import ecommerce from "./ecommerce.jpeg";
 import chat from "./chat.png";
+import score from "./scorekeeper.png";
+import web3 from "./web3.jpg";
 import textformat from "./textformat.png";
 
 export {
@@ -37,6 +39,8 @@ export {
   creator,
   mobile,
   web,
+  web3,
+  score,
   github,
   menu,
   close,
