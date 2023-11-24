@@ -7,6 +7,7 @@ import {
   typescript,
   vue, 
   uiux,
+  food,
   html,
   css,
   reactjs,
