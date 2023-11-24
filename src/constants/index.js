@@ -155,6 +155,33 @@ const experiences = [
 
 const projects = [
   {
+    name: "FoodieFirst",
+    description:
+      "Food ordering website in which you can order and make real payment using upi",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongoDB",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "red-text-gradient",
+      },
+    ],
+    image: foodiefirst,
+    source_code_link: "https://foodie-first.vercel.app/",
+  },
+  {
+    name: "Web3 Crowdfunding",
+  {
     name: "E-Commerce",
     description:
       "E-commerce platform that allows users to search and buy various things online by just sitting at home",
