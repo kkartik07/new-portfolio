@@ -26,6 +26,7 @@ import meta from "./company/opensource.png";
 import shopify from "./company/shopify.png";
 import secureblink from "./company/secureblink.png";
 import tesla from "./company/tesla.png";
+import food from "./food.png";
 
 import ecommerce from "./ecommerce.jpeg";
 import chat from "./chat.png";
@@ -45,6 +46,7 @@ export {
   menu,
   close,
   css,
+  food,
   docker,
   figma,
   git,
