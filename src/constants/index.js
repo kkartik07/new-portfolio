@@ -176,11 +176,9 @@ const projects = [
         color: "red-text-gradient",
       },
     ],
-    image: foodiefirst,
+    image: food,
     source_code_link: "https://foodie-first.vercel.app/",
   },
-  {
-    name: "Web3 Crowdfunding",
   {
     name: "E-Commerce",
     description:
